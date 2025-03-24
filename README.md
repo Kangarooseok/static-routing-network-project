@@ -101,16 +101,24 @@ R1(config-router)# network 192.168.0.0 0.0.0.255 area 0
 🧩 Appendix (부록)
 config/ 디렉토리에 각 라우터 설정 파일 포함 예정
 ![Image](https://github.com/user-attachments/assets/f990a254-b89a-4bdb-9ca7-6dfb6d0ed62a)
+
 ![Image](https://github.com/user-attachments/assets/614f5d15-40d5-4aca-a931-21d53b3067e9)
+
 ![Image](https://github.com/user-attachments/assets/bd046c50-26ee-40c5-9bb0-5b6f4bc544a8)
+
 ![Image](https://github.com/user-attachments/assets/5dbffc47-4159-4009-a920-a393955293c8)
 
 test/ 디렉토리에 ping 결과 및 라우팅 로그 포함 예정
 ![Image](https://github.com/user-attachments/assets/938d5ffa-f7a0-44f6-a419-e2cda92e7424)
+
 ![Image](https://github.com/user-attachments/assets/7fe5029f-0d67-4a24-abec-2f80bd3ea8bc)
+
 ![Image](https://github.com/user-attachments/assets/7a6bde28-4e1d-480d-8564-85aab226fa06)
+
 ![Image](https://github.com/user-attachments/assets/63c3c52b-8cde-4856-9903-02582f60bed6)
+
 ![Image](https://github.com/user-attachments/assets/4d86ff69-d4c0-48ea-992b-1b569f452e0d)
+
 ![Image](https://github.com/user-attachments/assets/c6877ed5-5518-409c-8ba4-ffdbbe6c5c29)
 
 📁 디렉토리 구조 (예정)
