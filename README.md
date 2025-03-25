@@ -131,6 +131,8 @@ R1(config-router)# network 192.168.0.0 0.0.0.255 area 0
   <img src="https://github.com/user-attachments/assets/614f5d15-40d5-4aca-a931-21d53b3067e9" width="300"/>
 </p>
 
+- 'test/' 디렉토리에 ping 결과 및 라우팅 로그 포함 예정
+- 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/bd046c50-26ee-40c5-9bb0-5b6f4bc544a8" width="300"/>
   <img src="https://github.com/user-attachments/assets/5dbffc47-4159-4009-a920-a393955293c8" width="300"/>
