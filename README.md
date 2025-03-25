@@ -113,36 +113,43 @@ R1(config-router)# network 192.168.0.0 0.0.0.255 area 0
 
 ## 📹 데모 영상
 
-👉 [네트워크 통신 데모 영상 보기](https://your-demo-link.com)  
+👉 [네트워크 통신 데모 영상 보기](https://youtu.be/BbSJFL_IDs0)  
 📱 QR 코드로도 확인 가능:
 
-![Image](https://github.com/user-attachments/assets/12927108-079b-4aca-8e2c-e6532be1f633)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/12927108-079b-4aca-8e2c-e6532be1f633" width="300"/>
+</p>
 
 ---
 
 ## 🧩 Appendix (부록)
 
-- `config/` 디렉토리에 각 라우터 설정 파일 포함 예정  
-![Image](https://github.com/user-attachments/assets/f990a254-b89a-4bdb-9ca7-6dfb6d0ed62a)
+- `config/` 디렉토리에 각 라우터 설정 파일 포함 예정
 
-![Image](https://github.com/user-attachments/assets/614f5d15-40d5-4aca-a931-21d53b3067e9)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f990a254-b89a-4bdb-9ca7-6dfb6d0ed62a" width="300"/>
+  <img src="https://github.com/user-attachments/assets/614f5d15-40d5-4aca-a931-21d53b3067e9" width="300"/>
+</p>
 
-![Image](https://github.com/user-attachments/assets/bd046c50-26ee-40c5-9bb0-5b6f4bc544a8)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bd046c50-26ee-40c5-9bb0-5b6f4bc544a8" width="300"/>
+  <img src="https://github.com/user-attachments/assets/5dbffc47-4159-4009-a920-a393955293c8" width="300"/>
+</p>
 
-![Image](https://github.com/user-attachments/assets/5dbffc47-4159-4009-a920-a393955293c8)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/938d5ffa-f7a0-44f6-a419-e2cda92e7424" width="300"/>
+  <img src="https://github.com/user-attachments/assets/7fe5029f-0d67-4a24-abec-2f80bd3ea8bc" width="300"/>
+</p>
 
-- `test/` 디렉토리에 ping 결과 및 라우팅 로그 포함 예정  
-![Image](https://github.com/user-attachments/assets/938d5ffa-f7a0-44f6-a419-e2cda92e7424)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7a6bde28-4e1d-480d-8564-85aab226fa06" width="300"/>
+  <img src="https://github.com/user-attachments/assets/63c3c52b-8cde-4856-9903-02582f60bed6" width="300"/>
+</p>
 
-![Image](https://github.com/user-attachments/assets/7fe5029f-0d67-4a24-abec-2f80bd3ea8bc)
-
-![Image](https://github.com/user-attachments/assets/7a6bde28-4e1d-480d-8564-85aab226fa06)
-
-![Image](https://github.com/user-attachments/assets/63c3c52b-8cde-4856-9903-02582f60bed6)
-
-![Image](https://github.com/user-attachments/assets/4d86ff69-d4c0-48ea-992b-1b569f452e0d)
-
-![Image](https://github.com/user-attachments/assets/c6877ed5-5518-409c-8ba4-ffdbbe6c5c29)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4d86ff69-d4c0-48ea-992b-1b569f452e0d" width="300"/>
+  <img src="https://github.com/user-attachments/assets/c6877ed5-5518-409c-8ba4-ffdbbe6c5c29" width="300"/>
+</p>
 
 ---
 
@@ -152,7 +159,6 @@ R1(config-router)# network 192.168.0.0 0.0.0.255 area 0
 📁 static-routing-project
 ├── README.md
 ├── topology.png
-├── qr.png
 ├── config/
 │   ├── R1_config.txt
 │   ├── R2_config.txt
